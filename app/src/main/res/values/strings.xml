@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Business Card With Android</string>
+    <string name="name">Đặng Ngọc Nam</string>
+    <string name="job">Android Developer</string>
+    <string name="phone_number">0905999999</string>
+    <string name="email">sdgm2003@gmail.com</string>
 </resources>
